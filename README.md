@@ -16,4 +16,4 @@ This project was created using `bun init` in bun v1.3.11. [Bun](https://bun.com)
 
 
 
-## this whole repo is my attempt at learning effect.ts
+## this whole repo is my attempt at learning effect.ts v4
